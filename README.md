@@ -1,2 +1,2 @@
 # iGallery
-My upload images。
+For personal image management.
